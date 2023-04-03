@@ -1,0 +1,132 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "abc",
+      "owner": "Ashish",
+      "mobile": "+918989898989",
+      "email": "abc@gmail.com",
+      "location": "new delhi"
+    },
+    {
+      "id": 2,
+      "name": "Food palce",
+      "owner": "Ashu",
+      "mobile": "+915656568989",
+      "email": "ashu@gmail.com",
+      "location": "mumbai"
+    },
+    {
+      "id": 1,
+      "name": "chili Restaurent",
+      "owner": "ram",
+      "mobile": "+916589898989",
+      "email": "ram@gmail.com",
+      "location": "kolhapur"
+    },
+    {
+      "id": 3,
+      "name": "New Food",
+      "owner": "Mr. Ram",
+      "mobile": "+916369366363",
+      "email": "newfood@restaurant.com",
+      "location": "Delhi"
+    },
+    {
+      "id": 4,
+      "name": "csvjhv",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    },
+    {
+      "id": 5,
+      "name": "abc ",
+      "owner": "hiuhiu",
+      "mobile": "+91111",
+      "email": "tre@gmail.com",
+      "location": "tyty"
+    },
+    {
+      "id": 6,
+      "name": "city inn",
+      "owner": "shrey",
+      "mobile": "9816248465",
+      "email": "xyz@gmail.com",
+      "location": "ICh"
+    },
+    {
+      "id": 7,
+      "name": "Ayush food",
+      "owner": "Ayush Patil",
+      "mobile": "+91565656565",
+      "email": "ayush@gmail.com",
+      "location": "Sangali "
+    },
+    {
+      "id": 8,
+      "name": "",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    },
+    {
+      "id": 9,
+      "name": "",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    },
+    {
+      "id": 10,
+      "name": "",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    },
+    {
+      "id": 11,
+      "name": "",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    },
+    {
+      "id": 12,
+      "name": "",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    },
+    {
+      "id": 13,
+      "name": "",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    },
+    {
+      "id": 14,
+      "name": "",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    },
+    {
+      "id": 15,
+      "name": "",
+      "owner": "",
+      "mobile": "",
+      "email": "",
+      "location": ""
+    }
+  ]
+}
